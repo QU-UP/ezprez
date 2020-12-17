@@ -23,8 +23,9 @@ Here are the steps for doing local development:
 ## FAQ
 
 <details>
- <summary>How do I preview my presentation locally?</summary>
- <p>To preview your presentation locally you need to:</p>
+ <summary><strong><em>How do I preview my presentation locally?</em></strong></summary>
+ </br>
+ <em>To preview your presentation locally you need to:</em>
  <ol>
     <li>Run python example.py or python3 example.py</li>
     <li>Open /Presentation/index.html in a browser</li>
@@ -32,8 +33,9 @@ Here are the steps for doing local development:
 </details>
 
 <details>
- <summary>How do I add in images?</summary>
- <p>There are a few steps to use images in your presentation</p>
+ <summary><strong><em>How do I add in images?</em></strong></summary>
+ </br>
+ <em>There are a few steps to use images in your presentation</em>
  <ol>
     <li>Add your images to /images</li>
     <li>Use an <a href="https://ezprez.readthedocs.io/en/latest/components/#image" target="_blank">Image Component</a> that just has the filename i.e. if the image is called kieran-wood-lp-ice-caps-4k-w-peng.jpg in /images then you want to use "kieran-wood-lp-ice-caps-4k-w-peng.jpg" in the Image component</li>
@@ -41,6 +43,7 @@ Here are the steps for doing local development:
 </details>
 
 <details>
- <summary>How do I use other hosting services?</summary>
- <p>When you run example.py the static html is exported to /Presentation so you can just deploy those files to any static file host (index.html is the whole presentation)
+ <summary><strong><em>How do I use other hosting services?</em></strong></summary>
+ </br>
+ <em>When you run example.py the static html is exported to /Presentation so you can just deploy those files to any static file host (index.html is the whole presentation)</em>
 </details>
