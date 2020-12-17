@@ -1,5 +1,6 @@
-# ezprez
-A repo to bootstrap ezprez usage
+# ezprez template
+
+*A repo to bootstrap ezprez usage*
 
 This demo assumes you are:
 1. Using GitHub
